@@ -1,0 +1,9 @@
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.API\obj\Debug\net6.0\Lab1.API.RazorAssemblyInfo.cs

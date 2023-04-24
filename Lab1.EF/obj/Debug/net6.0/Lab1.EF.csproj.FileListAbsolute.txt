@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\bin\Debug\net6.0\Lab1.EF.deps.json
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\bin\Debug\net6.0\Lab1.EF.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\bin\Debug\net6.0\Lab1.EF.dll
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\bin\Debug\net6.0\Lab1.EF.pdb
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.dll
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\refint\Lab1.EF.dll
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.pdb
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\Lab1.EF.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab1.EF\Lab1.EF\obj\Debug\net6.0\ref\Lab1.EF.dll
